@@ -2,4 +2,4 @@
 Hack2Innovate - Gurgaon Edition
 This was made as part of Hack2Innovate hackathon ( https://t-hub.co/hack2innovate/ ) with Microsoft, pwc, nvidia, NITI Aayog etc.
 #Objective
-To analyze weather data with defined parameters. Differentiating between predicted weather forecast data and actual weather conditions and aims to improve it with machine learning
+This is an R application which applies machine learning (SVM used) to analyze a medical dataset and takes parameters (GUI made with Shiny) to predict occurence of disease in future
